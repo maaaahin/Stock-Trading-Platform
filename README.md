@@ -56,6 +56,7 @@ levels and position sizing, based on the results of backtesting and out-of-sampl
 parameters, and results.
 - Generated visual reports and performance summaries using Python's data visualization
 libraries.
+
 GRAPHS:
 ![image](https://github.com/user-attachments/assets/4cdd67b6-f22d-499d-9d71-69c7be9a863a)
 ![image](https://github.com/user-attachments/assets/1a2e542b-87ed-41ff-8f7b-d62e2d853e5c)
