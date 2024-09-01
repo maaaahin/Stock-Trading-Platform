@@ -59,8 +59,9 @@ libraries.
 GRAPHS:
 ![image](https://github.com/user-attachments/assets/4cdd67b6-f22d-499d-9d71-69c7be9a863a)
 ![image](https://github.com/user-attachments/assets/1a2e542b-87ed-41ff-8f7b-d62e2d853e5c)
-Evaluation Table
+
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/734e3bdc-7b57-43f7-9a92-45b8be5a56bf">
+
 Conclusion
 In summary, this project has shed light on the vast potential of Python in the realm of stock
 trading strategies, emphasizing the integration of signals, indicators, and backtesting.
